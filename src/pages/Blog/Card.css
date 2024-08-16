@@ -1,0 +1,40 @@
+.crd:hover {
+    box-shadow: 10px 10px 20px 10px rgba(24, 24, 24, 0.273) !important;
+    transition: all 0.3s linear;
+   
+  }
+  .bak{
+    background-color: blanchedalmond;
+    margin:1rem;
+    border:1px black;
+  }
+  .crd-body {
+    padding: 2rem 0 !important;
+  }
+  
+  .crd-text {
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+  }
+  .tn{
+    color:blue;
+    font-weight:bold;
+
+  }
+  
+  .overflow {
+    overflow: hidden;
+  }
+  
+  .crd-img-top {
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+    height:10rem;
+    width:16rem;
+    padding:1rem;
+  }
+  
+  .crd-img-top:hover {
+    transform: scale(1.8);
+    padding:1rem;
+  }

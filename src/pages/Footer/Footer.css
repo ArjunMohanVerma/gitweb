@@ -1,0 +1,10 @@
+.footer{
+    background-color:#29335c;
+    color: white;
+}
+@media screen and (min-width: 480px) {
+    .container{
+        font-size: "0.6rem";
+        
+    }
+  }
